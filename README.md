@@ -9,6 +9,7 @@ I am interested in software engineering, practical applications of AI, and algor
 ## Current work
 
 - **Connect Four minimax bot:** extending my Connect Four game with a computer opponent that searches for the best move.
+- **Matrix Calculator WOP** adding more features and making a website to display everything.
 
 ## Projects
 
